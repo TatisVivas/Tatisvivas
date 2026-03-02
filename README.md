@@ -48,9 +48,16 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TatisVivas&show_icons=true&hide_border=true" alt="Stats de Tatis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatisVivas&layout=compact&hide_border=true" alt="Lenguajes de Tatis" />
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TatisVivas&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatisVivas&layout=compact&theme=radical&hide_border=true&bg_color=00000000" 
+    height="180"
+  />
 </p>
 
 ¡Gracias por visitar mi perfil! Estoy abierta a colaboraciones en proyectos de **Software e IA**. ✨
