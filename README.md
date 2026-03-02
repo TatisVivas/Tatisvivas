@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Tatiana Vivas (Tatis)
+# ¡Hola! 👋 Soy Tatis
 
 ### ✨ Estudiante de Ingeniería de Sistemas y Ciencia de Datos | Fullstack Developer | Enthusiast de IA y Analítica ✨
 
@@ -48,9 +48,9 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de Tatis](https://github-readme-stats.vercel.app/api?username=Tatisvivas&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatisvivas&layout=compact&theme=radical)
-
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TatisVivas&show_icons=true&hide_border=true" alt="Stats de Tatis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatisVivas&layout=compact&hide_border=true" alt="Lenguajes de Tatis" />
+</p>
 
 ¡Gracias por visitar mi perfil! Estoy abierta a colaboraciones en proyectos de **Software e IA**. ✨
