@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Tatis
 
-### ✨ Estudiante de Ingeniería de Sistemas y Ciencia de Datos | Fullstack Developer | Enthusiast de IA y Analítica ✨
+### ✨ Ingeniera de Sistemas y Científica de Datos | Fullstack Developer | Enthusiast de IA y Analítica ✨
 
 📍 Bogotá D.C., Colombia
 
